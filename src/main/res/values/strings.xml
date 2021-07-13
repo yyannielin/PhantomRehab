@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PhantomRehab</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up_underline"><u>Sign up</u></string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_email">Enter email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="ret">Return</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="hard">Hard</string>
+    <string name="login_error">Invalid administrator username or password</string>
+    <string name="level_1">Level 1</string>
+    <string name="random_hand">This is a random hand image</string>
+    <string name="left">Left</string>
+    <string name="next">Next</string>
+    <string name="promt_setup">Please set up your device as instructed.</string>
+    <string name="insn"><b>Instruction</b> <br/>
+        <br/>
+        <b>1.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br/>
+        <br/>
+        <b>2.</b> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br/>
+        <br/>
+        <b>3.</b> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="cancel"><u>Cancel</u></string>
+    <string name="log_out">Sign out</string>
+    <string name="meditation">Meditation</string>
+    <string name="gmi">GMI</string>
+    <string name="my_progress">My Progress</string>
+    <string name="my_profile">My Profile</string>
+</resources>
